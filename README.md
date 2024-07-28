@@ -1,2 +1,2 @@
-# Minishell-forbidden-files-checker
-Minishell forbidden files checker (Subject v7.1)
+# Minishell-forbidden-functions-checker
+Minishell forbidden functions checker (Subject v7.1)
