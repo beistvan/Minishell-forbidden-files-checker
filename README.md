@@ -13,7 +13,7 @@ This script checks for forbidden functions in the Minishell project.
 1. **Download the script using `curl`:**
 
     ```sh
-    curl -O https://raw.githubusercontent.com/beistvan/Minishell-forbidden-functions-checker/main/forbidden_functions_minishell.sh
+    bash -c "$(curl -fsSL https://raw.githubusercontent.com/beistvan/Minishell-forbidden-functions-checker/main/forbidden_functions_minishell.sh)"
     ```
 
 2. **Make the script executable:**
