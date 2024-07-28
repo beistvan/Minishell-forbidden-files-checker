@@ -13,7 +13,7 @@ This script checks for forbidden functions in the Minishell project.
 1. **Download the script using `curl`:**
 
     ```sh
-    curl -O [https://example.com/path/to/forbidden_functions_minishell.sh](https://github.com/beistvan/Minishell-forbidden-functions-checker/blob/main/forbidden_functions_minishell.sh)
+    curl -O https://raw.githubusercontent.com/beistvan/Minishell-forbidden-functions-checker/main/forbidden_functions_minishell.sh
     ```
 
 2. **Make the script executable:**
@@ -30,11 +30,11 @@ This script checks for forbidden functions in the Minishell project.
 
 ### Example Output
 
-#### No forbidden functions detected
+### No forbidden functions detected
 Forbidden functions checker for minishell (Subject v7.1)<br>
 ✅ OK: No forbidden functions found. ✅
 
-#### Forbidden functions detected
+### Forbidden functions detected
 Forbidden functions checker for minishell (Subject v7.1)<br>
 ❌Forbidden functions detected❌:<br>
 calloc<br>
